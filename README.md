@@ -8,3 +8,5 @@ This KSP planet pack adds 5 new gas giants with various moons to the edge of the
 <strong>Scatterer</strong> <br>
 <strong>ParallaxContinued</strong> <br>
 <strong>EVE</strong> <br>
+<strong>PlanetShine</strong> <br>
+<strong>Extraplanetary Launchpads</strong> <br>
