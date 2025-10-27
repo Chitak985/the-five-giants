@@ -5,4 +5,6 @@ This KSP planet pack adds 5 new gas giants with various moons to the edge of the
 <strong>ModuleManager</strong> <br>
 
 <h2>Supported Mods:</h2>
-<strong>Scatterer</strong> (Skmall and Crimsonis is supported) <br>
+<strong>Scatterer</strong> <br>
+<strong>ParallaxContinued</strong> <br>
+<strong>EVE</strong> <br>
